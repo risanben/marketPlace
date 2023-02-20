@@ -1,18 +1,18 @@
 [
     {
-        "id": "u101",
+        "id": 101,
         "name": "brenflakes",
         "price": 15.99,
         "imgUrl": "../../public/img/brenflakes.jpg"
     },
     {
-        "id": "u102",
+        "id": 102,
         "name": "milk-tnuva",
         "price": 5.00,
         "imgUrl": "../../public/img/milk-tnuva.jpg"
     },
     {
-        "id": "u103",
+        "id": 103,
         "name": "shampoo-pinuk",
         "price": 22.50,
         "imgUrl": "../../public/img/shampoo-pinuk.jpeg"
