@@ -1,4 +1,6 @@
-export function Home(){
+export function Home() {
 
-    return <h1>Home</h1>
+    return <div className="home">
+        <h1>Fresh Farmer's</h1>
+    </div>
 }
